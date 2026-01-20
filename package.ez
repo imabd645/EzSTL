@@ -4,6 +4,6 @@
   "description": "Basic Utility functions for EZ langauge",
   "author": "EZ Package Manager",
   "main": "ezstl.ez",
-  "repository": "https://github.com/imabd645/EZ",
+  "repository": "https://github.com/imabd645/",
   "dependencies": {}
 }
