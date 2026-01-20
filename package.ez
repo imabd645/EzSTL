@@ -1,0 +1,9 @@
+{
+  "name": "ezstl",
+  "version": "1.0.0",
+  "description": "Basic Utility functions for EZ langauge",
+  "author": "EZ Package Manager",
+  "main": "ezstl.ez",
+  "repository": "https://github.com/imabd645/EZ",
+  "dependencies": {}
+}
