@@ -19,3 +19,12 @@ task arr_to_str(arr)
     }
     give str
 }
+
+task randint(min,max)
+{
+   num=clock()
+   num=num%(max - min + 1) + min
+   give num
+}
+
+out randint(1,100)
