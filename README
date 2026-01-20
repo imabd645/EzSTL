@@ -1,0 +1,11 @@
+# EZ Utilities Library (EZSTL)
+
+A small collection of simple utility functions for **EZ Language** to make coding easier and faster.  
+Includes helpers for math, strings, arrays, and common tasks.  
+Designed for beginners to save time and simplify code.  
+
+## Installation
+
+Install the library directly from the terminal with:
+
+ez install ezstl
