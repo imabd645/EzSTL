@@ -1,4 +1,4 @@
-// basic EZ libarary for utilitiees functions 
+// basic EZ libarary for utilities functions 
 
 task str_to_arr(str)
 {
@@ -27,4 +27,8 @@ task randint(min,max)
    give num
 }
 
-out randint(1,100)
+task getch()
+{
+    in x
+    give x
+}
